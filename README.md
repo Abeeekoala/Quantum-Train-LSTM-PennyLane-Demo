@@ -1,7 +1,7 @@
 # Quantum-Train Long Short-Term Memory (QT-LSTM) for Wave Prediction (PennyLane Public Demo)
 
 ### Adapted from Second Place project in Deloitte’s Quantum Climate Challenge 2024
-(see details on "Quantum-Train Long Short-Term Memory: Application on Flood Prediction Problem" [arXiv:2407.08617](https://arxiv.org/abs/2407.08617))
+(see details on "Quantum-Train Long Short-Term Memory: Application on Flood Prediction Problem" [arXiv:2407.08617](https://arxiv.org/abs/2407.08617))<br>
 p.s. This paper will be presented during IEEE QCE WKS21 - Quantum Computing Opportunities in Renewable Energy and Climate Change
 
 ### Created by Chu-Hsuan Abraham Lin (al2823@ic.ac.uk), Chen-Yu Liu (d10245003@g.ntu.edu.tw)
