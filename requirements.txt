@@ -1,5 +1,4 @@
-pennylane
-torch
-numpy
-matplotlib
-scikit-learn
+pennylane==0.37.0
+torch==2.4.0
+matplotlib==3.9.1
+scikit-learn==1.5.1
